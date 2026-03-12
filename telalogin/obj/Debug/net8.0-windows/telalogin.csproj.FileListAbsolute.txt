@@ -1,0 +1,17 @@
+C:\Users\rubens.mcosta\source\repos\Projeto 11-03-26\projeto\telalogin\bin\Debug\net8.0-windows\telalogin.exe
+C:\Users\rubens.mcosta\source\repos\Projeto 11-03-26\projeto\telalogin\bin\Debug\net8.0-windows\telalogin.deps.json
+C:\Users\rubens.mcosta\source\repos\Projeto 11-03-26\projeto\telalogin\bin\Debug\net8.0-windows\telalogin.runtimeconfig.json
+C:\Users\rubens.mcosta\source\repos\Projeto 11-03-26\projeto\telalogin\bin\Debug\net8.0-windows\telalogin.dll
+C:\Users\rubens.mcosta\source\repos\Projeto 11-03-26\projeto\telalogin\bin\Debug\net8.0-windows\telalogin.pdb
+C:\Users\rubens.mcosta\source\repos\Projeto 11-03-26\projeto\telalogin\obj\Debug\net8.0-windows\telalogin.csproj.GenerateResource.cache
+C:\Users\rubens.mcosta\source\repos\Projeto 11-03-26\projeto\telalogin\obj\Debug\net8.0-windows\telalogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rubens.mcosta\source\repos\Projeto 11-03-26\projeto\telalogin\obj\Debug\net8.0-windows\telalogin.AssemblyInfoInputs.cache
+C:\Users\rubens.mcosta\source\repos\Projeto 11-03-26\projeto\telalogin\obj\Debug\net8.0-windows\telalogin.AssemblyInfo.cs
+C:\Users\rubens.mcosta\source\repos\Projeto 11-03-26\projeto\telalogin\obj\Debug\net8.0-windows\telalogin.csproj.CoreCompileInputs.cache
+C:\Users\rubens.mcosta\source\repos\Projeto 11-03-26\projeto\telalogin\obj\Debug\net8.0-windows\telalogin.dll
+C:\Users\rubens.mcosta\source\repos\Projeto 11-03-26\projeto\telalogin\obj\Debug\net8.0-windows\refint\telalogin.dll
+C:\Users\rubens.mcosta\source\repos\Projeto 11-03-26\projeto\telalogin\obj\Debug\net8.0-windows\telalogin.pdb
+C:\Users\rubens.mcosta\source\repos\Projeto 11-03-26\projeto\telalogin\obj\Debug\net8.0-windows\telalogin.genruntimeconfig.cache
+C:\Users\rubens.mcosta\source\repos\Projeto 11-03-26\projeto\telalogin\obj\Debug\net8.0-windows\ref\telalogin.dll
+C:\Users\rubens.mcosta\source\repos\Projeto 11-03-26\projeto\telalogin\obj\Debug\net8.0-windows\telalogin.Login.resources
+C:\Users\rubens.mcosta\source\repos\Projeto 11-03-26\projeto\telalogin\obj\Debug\net8.0-windows\telalogin.Properties.Resources.resources

@@ -1,0 +1,35 @@
+C:\Users\rubens.mcosta\source\repos\Projeto 11-03-26\projeto\MenuPrincipal\bin\Debug\net8.0-windows\MenuPrincipal.exe
+C:\Users\rubens.mcosta\source\repos\Projeto 11-03-26\projeto\MenuPrincipal\bin\Debug\net8.0-windows\MenuPrincipal.deps.json
+C:\Users\rubens.mcosta\source\repos\Projeto 11-03-26\projeto\MenuPrincipal\bin\Debug\net8.0-windows\MenuPrincipal.runtimeconfig.json
+C:\Users\rubens.mcosta\source\repos\Projeto 11-03-26\projeto\MenuPrincipal\bin\Debug\net8.0-windows\MenuPrincipal.dll
+C:\Users\rubens.mcosta\source\repos\Projeto 11-03-26\projeto\MenuPrincipal\bin\Debug\net8.0-windows\MenuPrincipal.pdb
+C:\Users\rubens.mcosta\source\repos\Projeto 11-03-26\projeto\MenuPrincipal\obj\Debug\net8.0-windows\MenuPrincipal.Form1.resources
+C:\Users\rubens.mcosta\source\repos\Projeto 11-03-26\projeto\MenuPrincipal\obj\Debug\net8.0-windows\MenuPrincipal.csproj.GenerateResource.cache
+C:\Users\rubens.mcosta\source\repos\Projeto 11-03-26\projeto\MenuPrincipal\obj\Debug\net8.0-windows\MenuPrincipal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rubens.mcosta\source\repos\Projeto 11-03-26\projeto\MenuPrincipal\obj\Debug\net8.0-windows\MenuPrincipal.AssemblyInfoInputs.cache
+C:\Users\rubens.mcosta\source\repos\Projeto 11-03-26\projeto\MenuPrincipal\obj\Debug\net8.0-windows\MenuPrincipal.AssemblyInfo.cs
+C:\Users\rubens.mcosta\source\repos\Projeto 11-03-26\projeto\MenuPrincipal\obj\Debug\net8.0-windows\MenuPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\rubens.mcosta\source\repos\Projeto 11-03-26\projeto\MenuPrincipal\obj\Debug\net8.0-windows\MenuPrincipal.dll
+C:\Users\rubens.mcosta\source\repos\Projeto 11-03-26\projeto\MenuPrincipal\obj\Debug\net8.0-windows\refint\MenuPrincipal.dll
+C:\Users\rubens.mcosta\source\repos\Projeto 11-03-26\projeto\MenuPrincipal\obj\Debug\net8.0-windows\MenuPrincipal.pdb
+C:\Users\rubens.mcosta\source\repos\Projeto 11-03-26\projeto\MenuPrincipal\obj\Debug\net8.0-windows\MenuPrincipal.genruntimeconfig.cache
+C:\Users\rubens.mcosta\source\repos\Projeto 11-03-26\projeto\MenuPrincipal\obj\Debug\net8.0-windows\ref\MenuPrincipal.dll
+C:\Users\rubens.mcosta\source\repos\Projeto 11-03-26\projeto\MenuPrincipal\obj\Debug\net8.0-windows\MenuPrincipal.Properties.Resources.resources
+C:\Users\rubens.mcosta\source\repos\projeto\MenuPrincipal\bin\Debug\net8.0-windows\MenuPrincipal.exe
+C:\Users\rubens.mcosta\source\repos\projeto\MenuPrincipal\bin\Debug\net8.0-windows\MenuPrincipal.deps.json
+C:\Users\rubens.mcosta\source\repos\projeto\MenuPrincipal\bin\Debug\net8.0-windows\MenuPrincipal.runtimeconfig.json
+C:\Users\rubens.mcosta\source\repos\projeto\MenuPrincipal\bin\Debug\net8.0-windows\MenuPrincipal.dll
+C:\Users\rubens.mcosta\source\repos\projeto\MenuPrincipal\bin\Debug\net8.0-windows\MenuPrincipal.pdb
+C:\Users\rubens.mcosta\source\repos\projeto\MenuPrincipal\obj\Debug\net8.0-windows\MenuPrincipal.Form1.resources
+C:\Users\rubens.mcosta\source\repos\projeto\MenuPrincipal\obj\Debug\net8.0-windows\MenuPrincipal.Properties.Resources.resources
+C:\Users\rubens.mcosta\source\repos\projeto\MenuPrincipal\obj\Debug\net8.0-windows\MenuPrincipal.csproj.GenerateResource.cache
+C:\Users\rubens.mcosta\source\repos\projeto\MenuPrincipal\obj\Debug\net8.0-windows\MenuPrincipal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rubens.mcosta\source\repos\projeto\MenuPrincipal\obj\Debug\net8.0-windows\MenuPrincipal.AssemblyInfoInputs.cache
+C:\Users\rubens.mcosta\source\repos\projeto\MenuPrincipal\obj\Debug\net8.0-windows\MenuPrincipal.AssemblyInfo.cs
+C:\Users\rubens.mcosta\source\repos\projeto\MenuPrincipal\obj\Debug\net8.0-windows\MenuPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\rubens.mcosta\source\repos\projeto\MenuPrincipal\obj\Debug\net8.0-windows\MenuPrincipal.sourcelink.json
+C:\Users\rubens.mcosta\source\repos\projeto\MenuPrincipal\obj\Debug\net8.0-windows\MenuPrincipal.dll
+C:\Users\rubens.mcosta\source\repos\projeto\MenuPrincipal\obj\Debug\net8.0-windows\refint\MenuPrincipal.dll
+C:\Users\rubens.mcosta\source\repos\projeto\MenuPrincipal\obj\Debug\net8.0-windows\MenuPrincipal.pdb
+C:\Users\rubens.mcosta\source\repos\projeto\MenuPrincipal\obj\Debug\net8.0-windows\MenuPrincipal.genruntimeconfig.cache
+C:\Users\rubens.mcosta\source\repos\projeto\MenuPrincipal\obj\Debug\net8.0-windows\ref\MenuPrincipal.dll

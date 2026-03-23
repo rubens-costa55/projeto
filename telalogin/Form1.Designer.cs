@@ -107,7 +107,7 @@
             button1.BackColor = Color.Snow;
             button1.Font = new Font("Leelawadee UI", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             button1.ForeColor = Color.FromArgb(200, 143, 130);
-            button1.Location = new Point(68, 350);
+            button1.Location = new Point(68, 349);
             button1.Name = "button1";
             button1.Size = new Size(379, 35);
             button1.TabIndex = 6;
@@ -137,9 +137,9 @@
             panel1.Controls.Add(textBox2);
             panel1.Controls.Add(button1);
             panel1.Controls.Add(label1);
-            panel1.Location = new Point(-36, -1);
+            panel1.Location = new Point(-4, 0);
             panel1.Name = "panel1";
-            panel1.Size = new Size(489, 657);
+            panel1.Size = new Size(489, 600);
             panel1.TabIndex = 8;
             panel1.Paint += panel1_Paint;
             // 
@@ -178,7 +178,7 @@
             AutoScaleDimensions = new SizeF(13F, 27F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.Snow;
-            ClientSize = new Size(886, 472);
+            ClientSize = new Size(898, 488);
             Controls.Add(label5);
             Controls.Add(panel1);
             Controls.Add(pictureBox1);

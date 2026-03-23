@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rubens.mcosta\\source\\repos\\Projeto 11-03-26\\projeto\\telalogin\\telalogin.csproj",
+      "projectUniqueName": "C:\\Users\\rubens.mcosta\\source\\repos\\projeto\\telalogin\\telalogin.csproj",
       "projectName": "telalogin",
-      "projectPath": "C:\\Users\\rubens.mcosta\\source\\repos\\Projeto 11-03-26\\projeto\\telalogin\\telalogin.csproj",
+      "projectPath": "C:\\Users\\rubens.mcosta\\source\\repos\\projeto\\telalogin\\telalogin.csproj",
       "packagesPath": "C:\\Users\\rubens.mcosta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rubens.mcosta\\source\\repos\\Projeto 11-03-26\\projeto\\telalogin\\obj\\",
+      "outputPath": "C:\\Users\\rubens.mcosta\\source\\repos\\projeto\\telalogin\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

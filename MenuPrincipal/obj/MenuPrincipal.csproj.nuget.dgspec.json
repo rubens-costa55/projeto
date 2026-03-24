@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rubens.mcosta\\source\\repos\\projeto\\MenuPrincipal\\MenuPrincipal.csproj": {}
+    "C:\\Users\\yuri.rsilva6\\source\\repos\\projeto\\MenuPrincipal\\MenuPrincipal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rubens.mcosta\\source\\repos\\projeto\\MenuPrincipal\\MenuPrincipal.csproj": {
+    "C:\\Users\\yuri.rsilva6\\source\\repos\\projeto\\MenuPrincipal\\MenuPrincipal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rubens.mcosta\\source\\repos\\projeto\\MenuPrincipal\\MenuPrincipal.csproj",
+        "projectUniqueName": "C:\\Users\\yuri.rsilva6\\source\\repos\\projeto\\MenuPrincipal\\MenuPrincipal.csproj",
         "projectName": "MenuPrincipal",
-        "projectPath": "C:\\Users\\rubens.mcosta\\source\\repos\\projeto\\MenuPrincipal\\MenuPrincipal.csproj",
-        "packagesPath": "C:\\Users\\rubens.mcosta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rubens.mcosta\\source\\repos\\projeto\\MenuPrincipal\\obj\\",
+        "projectPath": "C:\\Users\\yuri.rsilva6\\source\\repos\\projeto\\MenuPrincipal\\MenuPrincipal.csproj",
+        "packagesPath": "C:\\Users\\yuri.rsilva6\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yuri.rsilva6\\source\\repos\\projeto\\MenuPrincipal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\rubens.mcosta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\yuri.rsilva6\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

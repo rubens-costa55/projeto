@@ -1,22 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\rubens.mcosta\\source\\repos\\projeto\\",
+  "WorkspaceRootPath": "C:\\Users\\yuri.rsilva6\\source\\repos\\projeto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C69D1902-A4B6-4B25-A469-1DD226884419}|telalogin\\telalogin.csproj|C:\\Users\\rubens.mcosta\\source\\repos\\projeto\\telalogin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C69D1902-A4B6-4B25-A469-1DD226884419}|telalogin\\telalogin.csproj|solutionrelative:telalogin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{C69D1902-A4B6-4B25-A469-1DD226884419}|telalogin\\telalogin.csproj|c:\\users\\yuri.rsilva6\\source\\repos\\projeto\\telalogin\\historico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C69D1902-A4B6-4B25-A469-1DD226884419}|telalogin\\telalogin.csproj|solutionrelative:telalogin\\historico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B19E8220-F220-48FC-9D9D-0C0F64763B31}|MenuPrincipal\\MenuPrincipal.csproj|c:\\users\\rubens.mcosta\\source\\repos\\projeto\\menuprincipal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B19E8220-F220-48FC-9D9D-0C0F64763B31}|MenuPrincipal\\MenuPrincipal.csproj|solutionrelative:menuprincipal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{C69D1902-A4B6-4B25-A469-1DD226884419}|telalogin\\telalogin.csproj|c:\\users\\yuri.rsilva6\\source\\repos\\projeto\\telalogin\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69D1902-A4B6-4B25-A469-1DD226884419}|telalogin\\telalogin.csproj|solutionrelative:telalogin\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B19E8220-F220-48FC-9D9D-0C0F64763B31}|MenuPrincipal\\MenuPrincipal.csproj|c:\\users\\rubens.mcosta\\source\\repos\\projeto\\menuprincipal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B19E8220-F220-48FC-9D9D-0C0F64763B31}|MenuPrincipal\\MenuPrincipal.csproj|solutionrelative:menuprincipal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C69D1902-A4B6-4B25-A469-1DD226884419}|telalogin\\telalogin.csproj|c:\\users\\yuri.rsilva6\\source\\repos\\projeto\\telalogin\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C69D1902-A4B6-4B25-A469-1DD226884419}|telalogin\\telalogin.csproj|solutionrelative:telalogin\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C69D1902-A4B6-4B25-A469-1DD226884419}|telalogin\\telalogin.csproj|c:\\users\\rubens.mcosta\\source\\repos\\projeto\\telalogin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C69D1902-A4B6-4B25-A469-1DD226884419}|telalogin\\telalogin.csproj|solutionrelative:telalogin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C69D1902-A4B6-4B25-A469-1DD226884419}|telalogin\\telalogin.csproj|c:\\users\\yuri.rsilva6\\source\\repos\\projeto\\telalogin\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69D1902-A4B6-4B25-A469-1DD226884419}|telalogin\\telalogin.csproj|solutionrelative:telalogin\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69D1902-A4B6-4B25-A469-1DD226884419}|telalogin\\telalogin.csproj|c:\\users\\yuri.rsilva6\\source\\repos\\projeto\\telalogin\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C69D1902-A4B6-4B25-A469-1DD226884419}|telalogin\\telalogin.csproj|solutionrelative:telalogin\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69D1902-A4B6-4B25-A469-1DD226884419}|telalogin\\telalogin.csproj|c:\\users\\yuri.rsilva6\\source\\repos\\projeto\\telalogin\\agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C69D1902-A4B6-4B25-A469-1DD226884419}|telalogin\\telalogin.csproj|solutionrelative:telalogin\\agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69D1902-A4B6-4B25-A469-1DD226884419}|telalogin\\telalogin.csproj|c:\\users\\yuri.rsilva6\\source\\repos\\projeto\\telalogin\\pedidosatuais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C69D1902-A4B6-4B25-A469-1DD226884419}|telalogin\\telalogin.csproj|solutionrelative:telalogin\\pedidosatuais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69D1902-A4B6-4B25-A469-1DD226884419}|telalogin\\telalogin.csproj|c:\\users\\yuri.rsilva6\\source\\repos\\projeto\\telalogin\\redefinirsenha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C69D1902-A4B6-4B25-A469-1DD226884419}|telalogin\\telalogin.csproj|solutionrelative:telalogin\\redefinirsenha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,57 +42,105 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\rubens.mcosta\\source\\repos\\projeto\\telalogin\\Form1.cs",
-              "RelativeDocumentMoniker": "telalogin\\Form1.cs",
-              "ToolTip": "C:\\Users\\rubens.mcosta\\source\\repos\\projeto\\telalogin\\Form1.cs [Projeto]",
-              "RelativeToolTip": "telalogin\\Form1.cs [Projeto]",
+              "DocumentIndex": 7,
+              "Title": "RedefinirSenha.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\yuri.rsilva6\\source\\repos\\projeto\\telalogin\\RedefinirSenha.cs",
+              "RelativeDocumentMoniker": "telalogin\\RedefinirSenha.cs",
+              "ToolTip": "C:\\Users\\yuri.rsilva6\\source\\repos\\projeto\\telalogin\\RedefinirSenha.cs [Projeto]",
+              "RelativeToolTip": "telalogin\\RedefinirSenha.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T23:10:14.033Z",
-              "IsPinned": true,
+              "WhenOpened": "2026-03-24T00:03:09.77Z",
               "EditorCaption": " [Projeto]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\rubens.mcosta\\source\\repos\\projeto\\MenuPrincipal\\Form1.cs",
-              "RelativeDocumentMoniker": "MenuPrincipal\\Form1.cs",
-              "ToolTip": "C:\\Users\\rubens.mcosta\\source\\repos\\projeto\\MenuPrincipal\\Form1.cs",
-              "RelativeToolTip": "MenuPrincipal\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Historico.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\yuri.rsilva6\\source\\repos\\projeto\\telalogin\\Historico.cs",
+              "RelativeDocumentMoniker": "telalogin\\Historico.cs",
+              "ToolTip": "C:\\Users\\yuri.rsilva6\\source\\repos\\projeto\\telalogin\\Historico.cs [Projeto]",
+              "RelativeToolTip": "telalogin\\Historico.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T00:58:01.975Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-24T00:02:59.771Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PedidosAtuais.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\yuri.rsilva6\\source\\repos\\projeto\\telalogin\\PedidosAtuais.cs",
+              "RelativeDocumentMoniker": "telalogin\\PedidosAtuais.cs",
+              "ToolTip": "C:\\Users\\yuri.rsilva6\\source\\repos\\projeto\\telalogin\\PedidosAtuais.cs [Projeto]",
+              "RelativeToolTip": "telalogin\\PedidosAtuais.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T00:02:51.967Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Agendamento.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\yuri.rsilva6\\source\\repos\\projeto\\telalogin\\Agendamento.cs",
+              "RelativeDocumentMoniker": "telalogin\\Agendamento.cs",
+              "ToolTip": "C:\\Users\\yuri.rsilva6\\source\\repos\\projeto\\telalogin\\Agendamento.cs [Projeto]",
+              "RelativeToolTip": "telalogin\\Agendamento.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T23:51:12.545Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Menu.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\yuri.rsilva6\\source\\repos\\projeto\\telalogin\\Menu.cs",
+              "RelativeDocumentMoniker": "telalogin\\Menu.cs",
+              "ToolTip": "C:\\Users\\yuri.rsilva6\\source\\repos\\projeto\\telalogin\\Menu.cs [Projeto]",
+              "RelativeToolTip": "telalogin\\Menu.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T23:18:41.007Z",
+              "EditorCaption": " [Projeto]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\rubens.mcosta\\source\\repos\\projeto\\MenuPrincipal\\Form1.cs",
-              "RelativeDocumentMoniker": "MenuPrincipal\\Form1.cs",
-              "ToolTip": "C:\\Users\\rubens.mcosta\\source\\repos\\projeto\\MenuPrincipal\\Form1.cs [Projeto]",
-              "RelativeToolTip": "MenuPrincipal\\Form1.cs [Projeto]",
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\yuri.rsilva6\\source\\repos\\projeto\\telalogin\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "telalogin\\Login.Designer.cs",
+              "ToolTip": "C:\\Users\\yuri.rsilva6\\source\\repos\\projeto\\telalogin\\Login.Designer.cs",
+              "RelativeToolTip": "telalogin\\Login.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T00:27:16.387Z",
+              "WhenOpened": "2026-03-23T23:12:58.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\yuri.rsilva6\\source\\repos\\projeto\\telalogin\\Login.cs",
+              "RelativeDocumentMoniker": "telalogin\\Login.cs",
+              "ToolTip": "C:\\Users\\yuri.rsilva6\\source\\repos\\projeto\\telalogin\\Login.cs [Projeto]",
+              "RelativeToolTip": "telalogin\\Login.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T23:10:14.033Z",
               "EditorCaption": " [Projeto]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\rubens.mcosta\\source\\repos\\projeto\\telalogin\\Form1.cs",
-              "RelativeDocumentMoniker": "telalogin\\Form1.cs",
-              "ToolTip": "C:\\Users\\rubens.mcosta\\source\\repos\\projeto\\telalogin\\Form1.cs",
-              "RelativeToolTip": "telalogin\\Form1.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAA7wC4AAAAAAAAAAAAAAA==",
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\yuri.rsilva6\\source\\repos\\projeto\\telalogin\\Login.cs",
+              "RelativeDocumentMoniker": "telalogin\\Login.cs",
+              "ToolTip": "C:\\Users\\yuri.rsilva6\\source\\repos\\projeto\\telalogin\\Login.cs",
+              "RelativeToolTip": "telalogin\\Login.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAlwDgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T23:13:40.205Z"
+              "WhenOpened": "2026-03-11T23:13:40.205Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -5,8 +5,6 @@ VisualStudioVersion = 17.14.36310.24
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "telalogin", "telalogin\telalogin.csproj", "{C69D1902-A4B6-4B25-A469-1DD226884419}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuPrincipal", "MenuPrincipal\MenuPrincipal.csproj", "{B19E8220-F220-48FC-9D9D-0C0F64763B31}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{C69D1902-A4B6-4B25-A469-1DD226884419}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C69D1902-A4B6-4B25-A469-1DD226884419}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C69D1902-A4B6-4B25-A469-1DD226884419}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B19E8220-F220-48FC-9D9D-0C0F64763B31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B19E8220-F220-48FC-9D9D-0C0F64763B31}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B19E8220-F220-48FC-9D9D-0C0F64763B31}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B19E8220-F220-48FC-9D9D-0C0F64763B31}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
